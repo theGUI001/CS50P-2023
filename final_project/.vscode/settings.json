@@ -1,0 +1,17 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "cSpell.words": [
+        "borderwidth",
+        "cairosvg",
+        "facecolor",
+        "figsize",
+        "highlightthickness",
+        "labelcolor",
+        "mplfinance",
+        "savefig",
+        "xlabel",
+        "xtick",
+        "ylabel",
+        "ytick"
+    ]
+}

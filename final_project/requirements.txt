@@ -1,0 +1,6 @@
+tk
+requests
+pandas
+mplfinance
+matplotlib
+Pillow
